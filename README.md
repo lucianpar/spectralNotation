@@ -4,7 +4,7 @@ The output (scaled to a 16 / 9 aspect ratio), is the source width and height for
 This keeps the envirnment managment simple.
 
 Expected run times. 
-1-3 Minute Track: <5 mins
+1-3 Minute Track: <5 mins <br/>
 3-7 Minute Track: 5 - 15 mins
 7+ Minute Track: 20+ minutes
 
