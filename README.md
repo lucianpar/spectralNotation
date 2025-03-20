@@ -5,7 +5,7 @@ This keeps the envirnment managment simple.
 
 Expected run times. 
 1-3 Minute Track: <5 mins <br/>
-3-7 Minute Track: 5 - 15 mins
+3-7 Minute Track: 5 - 15 mins<br/>
 7+ Minute Track: 20+ minutes
 
 
